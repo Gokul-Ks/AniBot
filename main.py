@@ -1,4 +1,3 @@
-"""BAL : robel mezemir ( robi ) <robelmezemir@gmail.com>"""
 import dotenv
 import logging
 from os import getenv
